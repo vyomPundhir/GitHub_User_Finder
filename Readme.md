@@ -10,6 +10,6 @@
 
 ## You can Check it Live on Below Link :
 
-> [![Live Link](https://img.shields.io/badge/DEPLOYED-LINK-green)](https://github-user-finder-sj.netlify.app/)
+> [![Live Link](https://img.shields.io/badge/DEPLOYED-LINK-green)](https://git-hub-user-finder-hazel.vercel.app/)
 
 ---
